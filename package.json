@@ -1,0 +1,17 @@
+{
+  "name": "kaam",
+  "version": "1.0.0",
+  "description": "xyz",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/msal-node": "^1.15.0",
+    "@microsoft/microsoft-graph-client": "^3.0.5",
+    "express": "^4.18.2"
+  }
+}
